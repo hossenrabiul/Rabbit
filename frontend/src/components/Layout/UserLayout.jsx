@@ -10,7 +10,9 @@ const UserLayout = () => {
         {/* Header */}
         <Header/>
         {/* Main Content */}
-        <Outlet/>
+        <main>
+         <Outlet/>
+        </main>
         {/* Footer */}
         <Footer/>
      
