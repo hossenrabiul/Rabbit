@@ -1,6 +1,6 @@
 import React from 'react'
-import womens from '../../assets/Reddit/womens-collection.webp'
-import mans from '../../assets/Reddit/mens-collection.webp'
+import womens from '../../assets/Reddit/women.jpg'
+import mans from '../../assets/Reddit/women-2.jpg'
 import { Link } from 'react-router-dom'
 const GenderCollectionSection = () => {
   return (
