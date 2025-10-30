@@ -29,7 +29,7 @@ const Navbar = () => {
         {/* Center Links */}
         <div className="hidden md:flex items-center space-x-5">
           <Link
-            to={"/"}
+            to={"/collections/all"}
             className="uppercase text-sm font-medium text-gray-700 hover:text-black"
           >
             Men

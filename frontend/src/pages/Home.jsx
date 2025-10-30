@@ -10,7 +10,7 @@ import FeaturesSection from '../components/Products/FeaturesSection'
 
 const Home = () => {
   return (
-    <div>
+    <div className='pt-[124px]'>
         <Hero></Hero>
         <GenderCollectionSection/>
         <NewArrivals/>
